@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "spatialaudio",
+  "repo": "python-pa-ringbuffer",
+  "versions": [
+    {
+      "commit": "3f5cae7470951907ba17cd66af000ab5ec255744",
+      "parsed_at": "2026-10-28T17:01:34.040558+00:00",
+      "filetree": "filetree/3f5cae7470951907ba17cd66af000ab5ec255744.nq.gz",
+      "blobs": [
+        "blob/8c5c92bc071f7de2bb7db1d7b2fc8e8d76c861db.nq.gz",
+        "blob/cc91032a8ad4e894882604cdf551f9b84a546c10.nq.gz",
+        "blob/5ace4600a1f26e6892982f3e2f069ebfab108d87.nq.gz",
+        "blob/95d58aa45365cbbdd79de80e18dcd66238e6974e.nq.gz",
+        "blob/291579928afd81f0cb95d02168b06228c27e2fea.nq.gz",
+        "blob/f88489437d2a1a7f5dd86c70a95989e8e44cf12e.nq.gz",
+        "blob/68847bb570e45dccf141cfd53ae086ae00c36099.nq.gz",
+        "blob/f6eb9387c81efa4dcf81218bebf00f56db15195e.nq.gz",
+        "blob/7d61281032c8bace0359a5faf05a67235d42790d.nq.gz",
+        "blob/e4a38b2b74ef40b4b6a83c5674ec60fa5dc5d7ef.nq.gz",
+        "blob/fe7972dab140d76e16e66530d48217d275c02c8f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
