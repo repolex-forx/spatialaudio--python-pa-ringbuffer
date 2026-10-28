@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/spatialaudio/python-pa-ringbuffer/commit/3f5cae7470951907ba17cd66af000ab5ec255744",
       "git:hexsha": "3f5cae7470951907ba17cd66af000ab5ec255744",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T17:04:54.573781+00:00"
     },
     {
       "@id": "https://repolex.ai/r/spatialaudio/python-pa-ringbuffer/commit/5610f3605afc9a6b2cdb2331044c72445ae32ac6",
